@@ -1,0 +1,22 @@
+{
+  "name": "is-ok",
+  "version": "1.0.0",
+  "description": "is the string ok?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeymanOruji/is-ok-npm-package.git"
+  },
+  "keywords": [
+    "is-ok"
+  ],
+  "author": "peyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeymanOruji/is-ok-npm-package/issues"
+  },
+  "homepage": "https://github.com/PeymanOruji/is-ok-npm-package#readme"
+}
